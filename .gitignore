@@ -18,3 +18,5 @@ Thumbs.db
 
 # Sistema
 .envts
+ .DS_Store
+ 
