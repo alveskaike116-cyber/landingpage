@@ -1,0 +1,20 @@
+# Dependências
+node_modules/
+vendor/
+
+# Build / dist
+dist/
+build/
+
+# Configurações do VSCode
+.vscode/
+
+# Logs e temporários
+*.log
+*.tmp
+*.cache
+.DS_Store
+Thumbs.db
+
+# Sistema
+.env
