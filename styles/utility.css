@@ -19,7 +19,7 @@
   --max-widht: 375px;
   --widht: min(var(--max-widht), 100%-var(--px-lg) * 2);
   margin-inline: auto;
-  border: solid violet;
+ /* border: solid violet; */
 }
 
 .desktop-only {
@@ -31,6 +31,10 @@
   gap: 1rem;
 }
 
+.items-center{
+  align-items: center;
+}
+
 .flex {
   display: flex;
 }
@@ -38,6 +42,10 @@
 .gap-1 {
   gap: 1rem;
 } 
+
+.gap-1\.5{
+  gap: 1.5rem;
+}
 
 .grid {
   display: grid;
