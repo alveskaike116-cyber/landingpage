@@ -4,7 +4,7 @@
     position: relative;
 
 
-    &>img {
+    & > img {
       width: 14.5rem;
       position: absolute;
       bottom: 0;
@@ -25,15 +25,11 @@
         max-width: 40rem;
       }
 
-      &>img {
+      & > img {
         width: 29.125rem;
         right: -5rem;
       }
     }
-
-    .buttons {
-      justify-content: center;
-      gap: 1.5rem;
-    }
   }
 }
+  
